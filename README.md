@@ -1,6 +1,6 @@
 # Recommendation Systems with MovieLens Data
 
-Jean-Paul Ventura and Yehuda Schein 
+Jean-Paul Ventura and Jonathan Schein 
 
 Data Science cohort 062220
 
